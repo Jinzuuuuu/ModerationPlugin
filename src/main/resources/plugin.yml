@@ -1,0 +1,18 @@
+main: fr.jinzu.moderation.core.MainMod
+name: ModerationPlugin
+version: 0.1
+
+commands:
+  kick:
+    description: Commande de kick
+  report:
+    description: Commande de report
+  mod:
+    description: Commande de mode modération
+permissions:
+  mod.mod:
+    description: permission modérateur
+  mod.kick:
+    description: Perm de kick
+  mod.receive:
+    description: Perm de voir les messages de report

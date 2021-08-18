@@ -1,0 +1,6 @@
+fr\jinzu\moderation\commands\ModerationMode.class
+fr\jinzu\moderation\commands\Report.class
+fr\jinzu\moderation\listeners\ReportMenu.class
+fr\jinzu\moderation\listeners\ReportMenu$1.class
+fr\jinzu\moderation\core\MainMod.class
+fr\jinzu\moderation\commands\Kick.class
